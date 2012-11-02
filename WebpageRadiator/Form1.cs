@@ -60,7 +60,7 @@ namespace WebpageRadiator
             {
                 browser = new CustomBrowser(pageToDisplay);
                 openBrowsers.Add(browser);
-                
+                browser.ScriptErrorsSuppressed = true;
                 tableLayoutPanel1.Controls.Add(browser, 0, 0);
                 tableLayoutPanel1.SetColumnSpan(browser, 6);
                 browser.Dock = DockStyle.Fill;

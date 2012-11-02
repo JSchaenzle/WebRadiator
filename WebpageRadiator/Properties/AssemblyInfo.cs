@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebpageRadiator")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Webpage Radiator")]
+[assembly: AssemblyDescription("Cycles through webpages")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WebpageRadiator")]
-[assembly: AssemblyCopyright("Copyright ©  2012")]
+[assembly: AssemblyCompany("JTSolutions")]
+[assembly: AssemblyProduct("Webpage Radiator")]
+[assembly: AssemblyCopyright("Copyright ©  2012 JTSolutions")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
